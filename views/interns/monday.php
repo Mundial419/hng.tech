@@ -11,13 +11,13 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://res.cloudinary.com/iambeejayayo/image/upload/v1547954566/fav-500.png" alt="Mark Essien">
+                        <img src="https://res.cloudinary.com/mondaydev/image/upload/c_scale,h_2000,w_2000/v1554326034/Monday.jpg" alt="Monday Udowong">
                         <h6>Monday Udowong</h6>
                         <p>Front-end Developer</p>
                         <ul class="list">
                            <li><a href="https://twitter.com/i_am_mundial" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
                            <li><a href="https://github.com/mundial419" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
-                           <li><a href="https://mondaydev1.000webhostapp.com" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
+                           <li><a href="#" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
                      </div>
                   </div>
